@@ -1,6 +1,6 @@
-# Fuel Droplet Evaporation Data Repository (FDE-DB)
+# Fuel Droplet Evaporation Data Repository 
 
-The Fuel Droplet Evaporation Data Repository (FDE-DB) is an open database dedicated to consolidating quantitative experimental data on fuel droplet evaporation under a wide range of thermodynamic and transport conditions.
+The Fuel Droplet Evaporation Data Repository is an open database dedicated to consolidating quantitative experimental data on fuel droplet evaporation under a wide range of thermodynamic and transport conditions.
 
 Fuel droplet evaporation is a fundamental process in combustion science, multiphase flow, atomization, and heat and mass transfer. However, existing experimental data are widely scattered across the literature, often reported only in graphical form and lacking standardized formats for direct comparison or model validation.
 
